@@ -1,4 +1,4 @@
-# VIATeC Job Scraper
+# VIATEC Job Scraper
 
 ## Overview
 
